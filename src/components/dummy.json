@@ -1,191 +1,2146 @@
-{
-    "results": [
-    {
-    "id": "uMBZuKWY94mJ29JqD9IiwkKkcMg-4u4wYZ0ex2RBMf8",
-    "publisher": {
-    "name": "GlobeNewswire Inc.",
-    "homepage_url": "https://www.globenewswire.com",
-    "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-    "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+[
+  {
+    "name": "Bitcoin",
+    "symbol": "₿",
+    "rank": 1,
+    "age": 5185,
+    "color": "#fa9e32",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/btc.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/btc.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/btc.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/btc.webp",
+    "exchanges": 203,
+    "markets": 3921,
+    "pairs": 1105,
+    "categories": [],
+    "allTimeHighUSD": 68780.77475755227,
+    "circulatingSupply": 19319012,
+    "totalSupply": 19319012,
+    "maxSupply": 21000000,
+    "links": {
+      "website": "https://bitcoin.org/",
+      "whitepaper": "https://bitcoin.org/bitcoin.pdf",
+      "twitter": null,
+      "reddit": "https://reddit.com/r/bitcoin",
+      "telegram": null,
+      "discord": null,
+      "medium": null,
+      "instagram": null
     },
-    "title": "Transactions in connection with share buy-back program",
-    "author": "NTG Nordic Transport Group A/S",
-    "published_utc": "2023-03-14T16:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2023/03/14/2626978/0/en/Transactions-in-connection-with-share-buy-back-program.html",
-    "tickers": [
-    "NTG"
-    ],
-    "amp_url": "https://www.globenewswire.com/news-release/2023/03/14/2626978/0/en/Transactions-in-connection-with-share-buy-back-program.html",
-    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/991628be-ac71-4f7e-a0cb-38a90402c687",
-    "description": "Company announcement no. 8 - 2314 March 2023",
-    "keywords": [
-    "Changes in company's own shares",
-    "European Regulatory News"
-    ]
-    },
-    {
-    "id": "M_xKdrKSEKfNOoU6E3RXlrT-Qs7A61EcLY_f81zsl0k",
-    "publisher": {
-    "name": "GlobeNewswire Inc.",
-    "homepage_url": "https://www.globenewswire.com",
-    "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-    "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Ed Mylett to Inspire and Motivate as Keynote Speaker at eXp’s Shareholder Summit 2023",
-    "author": "eXp World Holdings, Inc.",
-    "published_utc": "2023-03-14T16:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2023/03/14/2626977/0/en/Ed-Mylett-to-Inspire-and-Motivate-as-Keynote-Speaker-at-eXp-s-Shareholder-Summit-2023.html",
-    "tickers": [
-    "EXPI"
-    ],
-    "amp_url": "https://www.globenewswire.com/news-release/2023/03/14/2626977/0/en/Ed-Mylett-to-Inspire-and-Motivate-as-Keynote-Speaker-at-eXp-s-Shareholder-Summit-2023.html",
-    "image_url": "https://ml.globenewswire.com/Resource/Download/999d909d-afb9-40a8-bb5d-7be2bfa64445",
-    "description": "Find your true path with Ed Mylett at eXp Shareholder Summit, May 17-20, 2023 in Orlando, FL Find your true path with Ed Mylett at eXp Shareholder Summit, May 17-20, 2023 in Orlando, FL",
-    "keywords": [
-    "Calendar of Events"
-    ]
-    },
-    {
-    "id": "6bh_W_mL3lk6QhpM59fuYl4gW9MDaFWKpvxghwM7ujE",
-    "publisher": {
-    "name": "The Motley Fool",
-    "homepage_url": "https://www.fool.com/",
-    "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-    "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Is Pfizer Stock a Screaming Buy After Its $43 Billion Seagen Acquisition?",
-    "author": "newsfeedback@fool.com (George Budwell)",
-    "published_utc": "2023-03-14T15:45:00Z",
-    "article_url": "https://www.fool.com/investing/2023/03/14/if-pfizer-stock-a-screaming-buy-after-its-43-billi/",
-    "tickers": [
-    "PFE",
-    "SGEN"
-    ],
-    "image_url": "https://g.foolcdn.com/editorial/images/724570/ma.jpg",
-    "description": "Pfizer's $43 billion Seagen acquisition is a long-term value-creation strategy.",
-    "keywords": [
-    "investing"
-    ]
-    },
-    {
-    "id": "hCXgMOdR7rPosW0n4vMtUcnvUvA7P8FjgeAy-oplhXI",
-    "publisher": {
-    "name": "GlobeNewswire Inc.",
-    "homepage_url": "https://www.globenewswire.com",
-    "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-    "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Ársreikningur Orkuveitu Reykjavíkur 2022 - Traustur rekstur og fjárhagur",
-    "author": "Orkuveita Reykjavíkur",
-    "published_utc": "2023-03-14T15:43:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2023/03/14/2626965/0/is/%C3%81rsreikningur-Orkuveitu-Reykjav%C3%ADkur-2022-Traustur-rekstur-og-fj%C3%A1rhagur.html",
-    "tickers": [
-    "OR"
-    ],
-    "amp_url": "https://www.globenewswire.com/news-release/2023/03/14/2626965/0/is/%C3%81rsreikningur-Orkuveitu-Reykjav%C3%ADkur-2022-Traustur-rekstur-og-fj%C3%A1rhagur.html",
-    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/491e4949-9849-482e-8b3f-8de1f8ab019d",
-    "description": "Rekstur er í traustum farvegi hjá samstæðu Orkuveitu Reykjavíkur (OR) og afkoma góð um leið og eignir vaxa ört. Á sama tíma hefur gjaldskrá sérleyfisreksturs lækkað að raungildi. Fjárhagsstaða Orkuveitu Reykjavíkur samkvæmt ársreikningi 2022 gerir fyrirtækið því vel búið í nauðsynleg sjálfbærniverkefni íslensks samfélags næstu árin.",
-    "keywords": [
-    "Earnings Releases and Operating Results",
-    "European Regulatory News"
-    ]
-    },
-    {
-    "id": "XlpQscXICTp1y3QlGuCwf8usHcmdEVKNJ_vLK9iCaDU",
-    "publisher": {
-    "name": "GlobeNewswire Inc.",
-    "homepage_url": "https://www.globenewswire.com",
-    "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-    "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "OR 2022 Consolidated Annual Financial Statements - Solid operations and finances",
-    "author": "Orkuveita Reykjavíkur",
-    "published_utc": "2023-03-14T15:43:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2023/03/14/2626965/0/en/OR-2022-Consolidated-Annual-Financial-Statements-Solid-operations-and-finances.html",
-    "tickers": [
-    "OR"
-    ],
-    "amp_url": "https://www.globenewswire.com/news-release/2023/03/14/2626965/0/en/OR-2022-Consolidated-Annual-Financial-Statements-Solid-operations-and-finances.html",
-    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/491e4949-9849-482e-8b3f-8de1f8ab019d",
-    "description": "Reykjavík Energy Group’s (Orkuveita Reykjavíkur; OR) operations are on a solid course and operating results are good while assets are growing rapidly. At the same time tariffs for licensed services have fallen in real terms. The Group’s financial status, according to the 2022 Annual Financial statements, enables the company to support the necessary sustainable projects Icelandic society needs in the coming years.",
-    "keywords": [
-    "Earnings Releases and Operating Results",
-    "European Regulatory News"
-    ]
-    },
-    {
-    "id": "kVDNygLjERpqZYs1hr43p4mBDq7HjgOpQ_Gd0q1XS8M",
-    "publisher": {
-    "name": "GlobeNewswire Inc.",
-    "homepage_url": "https://www.globenewswire.com",
-    "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-    "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Forian Inc. to Announce Fourth Quarter and Full Year 2022 Results on March 27, 2023",
-    "author": "Forian Inc.",
-    "published_utc": "2023-03-14T15:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2023/03/14/2626956/0/en/Forian-Inc-to-Announce-Fourth-Quarter-and-Full-Year-2022-Results-on-March-27-2023.html",
-    "tickers": [
-    "FORA"
-    ],
-    "amp_url": "https://www.globenewswire.com/news-release/2023/03/14/2626956/0/en/Forian-Inc-to-Announce-Fourth-Quarter-and-Full-Year-2022-Results-on-March-27-2023.html",
-    "image_url": "https://ml.globenewswire.com/Resource/Download/4c1cd787-012d-4e1c-b45f-3de753020f54",
-    "description": "NEWTOWN, PA, March  14, 2023  (GLOBE NEWSWIRE) -- via NewMediaWire – Forian Inc. (Nasdaq: FORA), a provider of data science driven information and analytics solutions to the healthcare and life sciences industries, will announce its fourth quarter and full year 2022 financial results on Monday, March 27, 2023, after the close of the market. The Company will host a conference call and webcast at 4:30 p.m. (ET) on March 27, 2023 to discuss the results.",
-    "keywords": [
-    "Earnings Releases and Operating Results"
-    ]
-    },
-    {
-    "id": "ZLsF9Z2nFsUx3oCFlIWLSfOVn-ArhVPLUI9TT-auVuo",
-    "publisher": {
-    "name": "GlobeNewswire Inc.",
-    "homepage_url": "https://www.globenewswire.com",
-    "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-    "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Red Cat Holdings Invests in Firestorm Modular Unmanned Aerial Systems Company",
-    "author": "Red Cat Holdings, Inc.",
-    "published_utc": "2023-03-14T15:19:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2023/03/14/2626939/0/en/Red-Cat-Holdings-Invests-in-Firestorm-Modular-Unmanned-Aerial-Systems-Company.html",
-    "tickers": [
-    "RCAT"
-    ],
-    "amp_url": "https://www.globenewswire.com/news-release/2023/03/14/2626939/0/en/Red-Cat-Holdings-Invests-in-Firestorm-Modular-Unmanned-Aerial-Systems-Company.html",
-    "image_url": "https://ml.globenewswire.com/Resource/Download/dcccaff0-4678-4fa7-a656-8f4b822a494d",
-    "description": "The Two Companies Have Complementary Approach to Developing and Deploying Unmanned Aerial Vehicles The Two Companies Have Complementary Approach to Developing and Deploying Unmanned Aerial Vehicles",
-    "keywords": [
-    "Financing Agreements"
-    ]
-    },
-    {
-    "id": "sozHDxxr1RAbWCwq48Z0acfcZV-gHaHrqx-9-ku-XRg",
-    "publisher": {
-    "name": "Benzinga",
-    "homepage_url": "https://www.benzinga.com/",
-    "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-    "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Western Alliance Bancorp Shares Flying 40% Higher; Bank Issues Mid-Quarter Update After SVB Collapse",
-    "author": "Priya Nigam",
-    "published_utc": "2023-03-14T15:05:39Z",
-    "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/23/03/31341108/western-alliance-bancorp-shares-flying-40-higher-bank-issues-mid-quarter-update-aft",
-    "tickers": [
-    "WAL"
-    ],
-    "amp_url": "https://www.benzinga.com/amp/content/31341108",
-    "image_url": "https://cdn.benzinga.com/files/images/story/2023/03/14/western_alliance_bancorporation_shutter.jpg?width=1200&height=800&fit=crop",
-    "description": "Shares of Western Alliance Bancorporation (NYSE: WAL) took a beating on Monday, as did other banking stocks, after the Silicon Valley Bank failure.\nThe bank’s mid-quarter update shows strong financials, according to Wedbush.\nThe Western Alliance Bancorporation Analyst: David Chiaverini maintained a Neutral rating on Western Alliance Bancorporation and a price target of $80.\nThe Western ...Full story available on Benzinga.com",
-    "keywords": [
-    "Analyst Color",
-    "Reiteration",
-    "Analyst Ratings",
-    "Movers",
-    "Trading Ideas"
-    ]
+    "code": "BTC",
+    "rate": 24912.66551245545,
+    "volume": 58865846164,
+    "cap": 481288083987,
+    "delta": {
+      "hour": 1.0153,
+      "day": 1.0093,
+      "week": 1.1501,
+      "month": 1.1413,
+      "quarter": 1.4605,
+      "year": 0.6146
     }
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "Ξ",
+    "rank": 2,
+    "age": 2786,
+    "color": "#282a2a",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/eth.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/eth.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/eth.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/eth.webp",
+    "exchanges": 326,
+    "markets": 4997,
+    "pairs": 2284,
+    "categories": [
+      "smart_contract_platforms"
     ],
-    "status": "OK",
-    "request_id": "f325cb1d2b621b965edb73de5b491cf4",
-    "count": 8,
-    "next_url": "https://api.polygon.io/v2/reference/news?cursor=YXA9MjAyMy0wMy0xNFQxNSUzQTA1JTNBMzlaJmFzPXNvekhEeHhyMVJBYldDd3E0OFowYWNmY1pWLWdIYUhycXgtOS1rdS1YUmcmbGltaXQ9OCZvcmRlcj1kZXNjZW5kaW5n"
-}
+    "allTimeHighUSD": 4861.288700810894,
+    "circulatingSupply": 122373866,
+    "totalSupply": 122373866,
+    "maxSupply": null,
+    "links": {
+      "website": "https://www.ethereum.org/",
+      "whitepaper": "https://github.com/ethereum/wiki/wiki/White-Paper",
+      "twitter": "https://twitter.com/ethereum",
+      "reddit": "https://reddit.com/r/ethereum",
+      "telegram": null,
+      "discord": "https://discord.com/invite/CetY6Y4",
+      "medium": null,
+      "instagram": null
+    },
+    "code": "ETH",
+    "rate": 1661.3843109686406,
+    "volume": 33940695066,
+    "cap": 203310021045,
+    "delta": {
+      "hour": 1.0091,
+      "day": 0.9797,
+      "week": 1.0829,
+      "month": 1.0982,
+      "quarter": 1.3678,
+      "year": 0.6174
+    }
+  },
+  {
+    "name": "Tether",
+    "rank": 3,
+    "age": 3180,
+    "color": "#e9f4f4",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/usdt.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdt.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/usdt.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdt.webp",
+    "exchanges": 300,
+    "markets": 14682,
+    "pairs": 4119,
+    "categories": [
+      "stablecoins",
+      "asset_backed_tokens"
+    ],
+    "allTimeHighUSD": 1.08372533074166,
+    "circulatingSupply": 74251902617,
+    "totalSupply": 74251902617,
+    "maxSupply": null,
+    "links": {
+      "website": "https://tether.to",
+      "whitepaper": "https://tether.to/wp-content/uploads/2015/04/Tether-White-Paper.pdf",
+      "twitter": "https://twitter.com/tether_to",
+      "reddit": "https://reddit.com/r/Tether",
+      "telegram": "https://t.me/OfficialTether",
+      "discord": null,
+      "medium": null,
+      "instagram": null
+    },
+    "code": "USDT",
+    "rate": 1.0052073782034538,
+    "volume": 75271801694,
+    "cap": 74638560356,
+    "delta": {
+      "hour": 0.9999,
+      "day": 1.0004,
+      "week": 1.0058,
+      "month": 1.0058,
+      "quarter": 1.002,
+      "year": 1.0046
+    }
+  },
+  {
+    "name": "BNB",
+    "rank": 4,
+    "age": 2084,
+    "color": "#f4bc2c",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/bnb.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/bnb.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.webp",
+    "exchanges": 145,
+    "markets": 2938,
+    "pairs": 2264,
+    "categories": [
+      "cex",
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 691.55924082575,
+    "circulatingSupply": 157219628,
+    "totalSupply": 157219628,
+    "maxSupply": 197192382,
+    "links": {
+      "website": "https://www.binance.com/en/bnb?ref=Y6TC8MN4",
+      "whitepaper": "https://academy.binance.com/en/articles/what-is-bnb?ref=Y6TC8MN4",
+      "twitter": "https://twitter.com/binance",
+      "reddit": "https://reddit.com/r/binance",
+      "telegram": "https://t.me/binanceexchange",
+      "discord": "https://discord.com/invite/amjFE7Grgr",
+      "medium": "https://medium.com/@binance",
+      "instagram": "https://instagram.com/Binance"
+    },
+    "code": "BNB",
+    "rate": 318.5529377669304,
+    "volume": 1290506776,
+    "cap": 50082774374,
+    "delta": {
+      "hour": 0.9968,
+      "day": 1.0281,
+      "week": 1.1039,
+      "month": 1.0835,
+      "quarter": 1.2562,
+      "year": 0.8444
+    }
+  },
+  {
+    "name": "USD Coin",
+    "rank": 5,
+    "age": 1619,
+    "color": "#eef4f9",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/usdc.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdc.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/usdc.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/usdc.webp",
+    "exchanges": 250,
+    "markets": 2359,
+    "pairs": 1081,
+    "categories": [
+      "stablecoins",
+      "asset_backed_tokens"
+    ],
+    "allTimeHighUSD": 1.087,
+    "circulatingSupply": 37514529386,
+    "totalSupply": 37514529386,
+    "maxSupply": null,
+    "links": {
+      "website": "https://www.centre.io/usdc",
+      "whitepaper": "https://www.centre.io/pdfs/centre-whitepaper.pdf",
+      "twitter": null,
+      "reddit": null,
+      "telegram": null,
+      "discord": null,
+      "medium": null,
+      "instagram": null
+    },
+    "code": "USDC",
+    "rate": 1.0009054722629303,
+    "volume": 3739155691,
+    "cap": 37548497752,
+    "delta": {
+      "hour": 1,
+      "day": 1.0014,
+      "week": 1.0021,
+      "month": 1.0031,
+      "quarter": 0.997,
+      "year": 1.0032
+    }
+  },
+  {
+    "name": "XRP",
+    "rank": 6,
+    "age": 4092,
+    "color": "#040404",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/xrp.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xrp.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/xrp.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xrp.webp",
+    "exchanges": 114,
+    "markets": 469,
+    "pairs": 220,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 3.91546307780967,
+    "circulatingSupply": 50950912949,
+    "totalSupply": 99989113908,
+    "maxSupply": 100000000000,
+    "links": {
+      "website": "https://ripple.com/",
+      "whitepaper": "https://interledger.org/interledger.pdf",
+      "twitter": "https://twitter.com/Ripple",
+      "reddit": "https://reddit.com/r/ripple",
+      "telegram": "https://t.me/Ripple",
+      "discord": null,
+      "medium": null,
+      "instagram": null
+    },
+    "code": "XRP",
+    "rate": 0.36727332083652603,
+    "volume": 899461347,
+    "cap": 18712910998,
+    "delta": {
+      "hour": 1.0061,
+      "day": 0.9865,
+      "week": 0.929,
+      "month": 0.9935,
+      "quarter": 0.9982,
+      "year": 0.4782
+    }
+  },
+  {
+    "name": "OKB",
+    "rank": 7,
+    "age": 1415,
+    "color": "#ededed",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/okb.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/okb.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/okb.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/okb.webp",
+    "exchanges": 17,
+    "markets": 33,
+    "pairs": 10,
+    "categories": [
+      "cex"
+    ],
+    "allTimeHighUSD": 58.72495050144573,
+    "circulatingSupply": 246638761,
+    "totalSupply": 246638974,
+    "maxSupply": 300000000,
+    "links": {
+      "website": "https://www.okx.com/",
+      "whitepaper": "https://okexchain-docs.readthedocs.io/en/latest/",
+      "twitter": "https://twitter.com/okx",
+      "reddit": "https://reddit.com/r/OKX",
+      "telegram": "https://t.me/OKXOfficial_English",
+      "discord": "https://discord.com/invite/2rynEUqJxP",
+      "medium": "https://medium.com/okex-blog",
+      "instagram": "https://www.instagram.com/okx_official/"
+    },
+    "code": "OKB",
+    "rate": 46.96799021581038,
+    "volume": 56935377,
+    "cap": 11584126913,
+    "delta": {
+      "hour": 1.0085,
+      "day": 0.9592,
+      "week": 1.1128,
+      "month": 1.1629,
+      "quarter": 1.9836,
+      "year": 2.5462
+    }
+  },
+  {
+    "name": "Cardano",
+    "rank": 8,
+    "age": 1991,
+    "color": "#226ed8",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/ada.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ada.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/ada.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ada.webp",
+    "exchanges": 81,
+    "markets": 288,
+    "pairs": 103,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 3.0939096930263132,
+    "circulatingSupply": 35045020830,
+    "totalSupply": 35045020830,
+    "maxSupply": 45000000000,
+    "links": {
+      "website": "https://www.cardano.org/",
+      "whitepaper": "https://www.cardanohub.org/en/academic-papers/",
+      "twitter": "https://twitter.com/Cardano",
+      "reddit": "https://reddit.com/r/cardano",
+      "telegram": "https://t.me/cardano",
+      "discord": null,
+      "medium": null,
+      "instagram": null
+    },
+    "code": "ADA",
+    "rate": 0.3277697406452082,
+    "volume": 519164561,
+    "cap": 11486697388,
+    "delta": {
+      "hour": 1.0107,
+      "day": 0.9636,
+      "week": 1.0421,
+      "month": 0.9073,
+      "quarter": 1.1399,
+      "year": 0.4025
+    }
+  },
+  {
+    "name": "Polygon",
+    "rank": 9,
+    "age": 1417,
+    "color": "#8444e4",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/matic.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/matic.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/matic.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/matic.webp",
+    "exchanges": 112,
+    "markets": 513,
+    "pairs": 232,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 2.920098783754804,
+    "circulatingSupply": 9080469070,
+    "totalSupply": 10000000000,
+    "maxSupply": 10000000000,
+    "links": {
+      "website": "https://polygon.technology/",
+      "whitepaper": "https://polygon.technology/lightpaper-polygon.pdf",
+      "twitter": "https://twitter.com/0xPolygon",
+      "reddit": "https://reddit.com/r/0xPolygon",
+      "telegram": "https://t.me/maticnetwork",
+      "discord": "https://discord.gg/tuETxzrh",
+      "medium": "https://polygontech.medium.com/",
+      "instagram": null
+    },
+    "code": "MATIC",
+    "rate": 1.1430522142830315,
+    "volume": 894242202,
+    "cap": 10379450277,
+    "delta": {
+      "hour": 1.0155,
+      "day": 0.9496,
+      "week": 1.0971,
+      "month": 0.9679,
+      "quarter": 1.3354,
+      "year": 0.8147
+    }
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "Ɖ",
+    "rank": 10,
+    "age": 3377,
+    "color": "#eee0b6",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/doge.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/doge.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/doge.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/doge.webp",
+    "exchanges": 104,
+    "markets": 226,
+    "pairs": 71,
+    "categories": [
+      "meme",
+      "wallets",
+      "charity"
+    ],
+    "allTimeHighUSD": 0.7371712183910056,
+    "circulatingSupply": 132670764299,
+    "totalSupply": 132670764299,
+    "maxSupply": null,
+    "links": {
+      "website": "http://dogecoin.com/",
+      "whitepaper": "https://dogecoin.com/dogepedia/",
+      "twitter": "https://twitter.com/dogecoin",
+      "reddit": "https://reddit.com/r/dogecoin",
+      "telegram": null,
+      "discord": "https://discord.com/invite/dogecoin",
+      "medium": null,
+      "instagram": null
+    },
+    "code": "DOGE",
+    "rate": 0.07082840580990934,
+    "volume": 376746637,
+    "cap": 9396858733,
+    "delta": {
+      "hour": 1.0097,
+      "day": 0.9537,
+      "week": 0.992,
+      "month": 0.8665,
+      "quarter": 0.8545,
+      "year": 0.6185
+    }
+  },
+  {
+    "name": "Dai",
+    "rank": 11,
+    "age": 1905,
+    "color": "#fcb934",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/dai.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/dai.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/dai.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/dai.webp",
+    "exchanges": 131,
+    "markets": 351,
+    "pairs": 118,
+    "categories": [
+      "stablecoins"
+    ],
+    "allTimeHighUSD": 1.3998062062282162,
+    "circulatingSupply": 9359045406,
+    "totalSupply": 10931954334,
+    "maxSupply": null,
+    "links": {
+      "website": "http://www.makerdao.com/",
+      "whitepaper": "https://makerdao.com/whitepaper/",
+      "twitter": "https://twitter.com/makerDAO",
+      "reddit": "https://reddit.com/r/makerDAO",
+      "telegram": "https://t.me/makerdaoOfficial",
+      "discord": null,
+      "medium": null,
+      "instagram": null
+    },
+    "code": "DAI",
+    "rate": 1.0001087512906777,
+    "volume": 412413114,
+    "cap": 9360063214,
+    "delta": {
+      "hour": 0.9994,
+      "day": 1.0007,
+      "week": 1.0008,
+      "month": 1.0034,
+      "quarter": 0.9971,
+      "year": 1.0006
+    }
+  },
+  {
+    "name": "Binance USD",
+    "rank": 12,
+    "age": 1272,
+    "color": "#f4bc0c",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/busd.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/busd.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/busd.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/busd.webp",
+    "exchanges": 107,
+    "markets": 1540,
+    "pairs": 914,
+    "categories": [
+      "stablecoins",
+      "asset_backed_tokens"
+    ],
+    "allTimeHighUSD": 1.24997330944831,
+    "circulatingSupply": 8339923998,
+    "totalSupply": 8339923998,
+    "maxSupply": null,
+    "links": {
+      "website": "https://www.binance.com/en/busd?ref=Y6TC8MN4",
+      "whitepaper": "https://academy.binance.com/en/articles/what-is-busd?ref=Y6TC8MN4",
+      "twitter": "https://twitter.com/binance",
+      "reddit": "https://reddit.com/r/binance",
+      "telegram": "https://t.me/binanceexchange/",
+      "discord": "https://discord.com/invite/amjFE7Grgr",
+      "medium": "https://medium.com/@binance",
+      "instagram": "https://instagram.com/Binance"
+    },
+    "code": "BUSD",
+    "rate": 1.0027259878947214,
+    "volume": 12431965758,
+    "cap": 8362658530,
+    "delta": {
+      "hour": 0.9999,
+      "day": 1.0024,
+      "week": 1.0016,
+      "month": 1.0024,
+      "quarter": 0.9977,
+      "year": 0.9999
+    }
+  },
+  {
+    "name": "Solana",
+    "rank": 13,
+    "age": 1067,
+    "color": "#68a1c9",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/sol.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/sol.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/sol.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/sol.webp",
+    "exchanges": 65,
+    "markets": 226,
+    "pairs": 94,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 259.8360337991446,
+    "circulatingSupply": 383380916,
+    "totalSupply": 543007781,
+    "maxSupply": null,
+    "links": {
+      "website": "https://solana.com/",
+      "whitepaper": "https://docs.solana.com/",
+      "twitter": "https://twitter.com/solana",
+      "reddit": "https://reddit.com/r/solana",
+      "telegram": "https://t.me/solana",
+      "discord": "https://discord.com/invite/pquxPsq",
+      "medium": "https://medium.com/solana-labs",
+      "instagram": "https://www.instagram.com/solana_updates"
+    },
+    "code": "SOL",
+    "rate": 19.627328606421305,
+    "volume": 828526470,
+    "cap": 7524743220,
+    "delta": {
+      "hour": 1.0123,
+      "day": 0.9441,
+      "week": 1.0649,
+      "month": 0.917,
+      "quarter": 1.4562,
+      "year": 0.2336
+    }
+  },
+  {
+    "name": "Polkadot",
+    "rank": 14,
+    "age": 934,
+    "color": "#e4047c",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/dot.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/dot.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/dot.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/dot.webp",
+    "exchanges": 81,
+    "markets": 169,
+    "pairs": 35,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 55.06538188283951,
+    "circulatingSupply": 1085041146,
+    "totalSupply": 1293072135,
+    "maxSupply": null,
+    "links": {
+      "website": "https://polkadot.network/",
+      "whitepaper": "https://polkadot.network/PolkaDotPaper.pdf",
+      "twitter": "https://twitter.com/Polkadot",
+      "reddit": "https://reddit.com/r/dot",
+      "telegram": "https://t.me/PolkadotOfficial",
+      "discord": "https://discord.com/invite/wGUDt2p",
+      "medium": "https://medium.com/polkadot-network",
+      "instagram": null
+    },
+    "code": "DOT",
+    "rate": 6.070657430527311,
+    "volume": 384654935,
+    "cap": 6586913095,
+    "delta": {
+      "hour": 1.0137,
+      "day": 0.963,
+      "week": 1.0799,
+      "month": 0.992,
+      "quarter": 1.1842,
+      "year": 0.3329
+    }
+  },
+  {
+    "name": "TRON",
+    "rank": 15,
+    "age": 2010,
+    "color": "#c43429",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/trx.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/trx.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/trx.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/trx.webp",
+    "exchanges": 90,
+    "markets": 270,
+    "pairs": 73,
+    "categories": [
+      "storage",
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 0.2947430746031121,
+    "circulatingSupply": 91232570547,
+    "totalSupply": 91232565673,
+    "maxSupply": null,
+    "links": {
+      "website": "https://tron.network/",
+      "whitepaper": "https://o836fhe91.qnssl.com/tron/whitebook/TronWhitepaper_en.pdf",
+      "twitter": "https://twitter.com/trondao",
+      "reddit": "https://reddit.com/r/Tronix",
+      "telegram": "https://t.me/tronnetworkEN",
+      "discord": "https://discord.com/invite/ezNzd9W",
+      "medium": "https://tronfoundation.medium.com/",
+      "instagram": "https://instagram.com/tronfoundation"
+    },
+    "code": "TRX",
+    "rate": 0.06909702694918621,
+    "volume": 309630625,
+    "cap": 6303899386,
+    "delta": {
+      "hour": 1.0091,
+      "day": 1.0075,
+      "week": 1.0044,
+      "month": 1.0155,
+      "quarter": 1.2172,
+      "year": 1.1372
+    }
+  },
+  {
+    "name": "Shiba Inu",
+    "rank": 16,
+    "age": 771,
+    "color": "#faa00d",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/shib.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/shib.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/shib.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/shib.webp",
+    "exchanges": 82,
+    "markets": 137,
+    "pairs": 33,
+    "categories": [
+      "meme",
+      "metaverse",
+      "nfts",
+      "dex",
+      "yield_farming"
+    ],
+    "allTimeHighUSD": 0.00008877244256117385,
+    "circulatingSupply": 589307567011082,
+    "totalSupply": 589610784435768,
+    "maxSupply": null,
+    "links": {
+      "website": "https://shibatoken.com/",
+      "whitepaper": "https://github.com/shytoshikusama/shibawoofpaper/blob/main/SHIBAINU_Ecosystem_WOOF_Paper.pdf",
+      "twitter": "https://twitter.com/shibtoken",
+      "reddit": "https://reddit.com/r/SHIBArmy",
+      "telegram": "https://t.me/shibainuthedogecoinkiller",
+      "discord": "https://discord.com/invite/shibatoken",
+      "medium": "https://allhailtheshiba.medium.com",
+      "instagram": "https://www.instagram.com/shibatoken_official/"
+    },
+    "code": "SHIB",
+    "rate": 0.000010510321148775561,
+    "volume": 432494599,
+    "cap": 6193811785,
+    "delta": {
+      "hour": 1.013,
+      "day": 0.9429,
+      "week": 0.97,
+      "month": 0.8446,
+      "quarter": 1.2187,
+      "year": 0.4777
+    }
+  },
+  {
+    "name": "Litecoin",
+    "rank": 17,
+    "age": 4177,
+    "color": "#345c9c",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/ltc.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ltc.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/ltc.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ltc.webp",
+    "exchanges": 133,
+    "markets": 376,
+    "pairs": 92,
+    "categories": [],
+    "allTimeHighUSD": 413.0840556096379,
+    "circulatingSupply": 72493226,
+    "totalSupply": 72493226,
+    "maxSupply": 84000000,
+    "links": {
+      "website": "https://litecoin.com",
+      "whitepaper": null,
+      "twitter": "https://twitter.com/LitecoinDotCom",
+      "reddit": "https://reddit.com/r/litecoin",
+      "telegram": "https://t.me/litecoin",
+      "discord": null,
+      "medium": null,
+      "instagram": "https://instagram.com/litecoindotcom"
+    },
+    "code": "LTC",
+    "rate": 79.56091253683873,
+    "volume": 1018744516,
+    "cap": 5767627213,
+    "delta": {
+      "hour": 1.0117,
+      "day": 0.9572,
+      "week": 0.9574,
+      "month": 0.867,
+      "quarter": 1.1438,
+      "year": 0.7374
+    }
+  },
+  {
+    "name": "Avalanche",
+    "rank": 18,
+    "age": 905,
+    "color": "#eb4343",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/avax.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/avax.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/avax.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/avax.webp",
+    "exchanges": 78,
+    "markets": 367,
+    "pairs": 179,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 146.46571588270493,
+    "circulatingSupply": 325572766,
+    "totalSupply": 377752194,
+    "maxSupply": 720000000,
+    "links": {
+      "website": "https://www.avax.network/",
+      "whitepaper": "https://docs.avax.network/",
+      "twitter": "https://twitter.com/avalancheavax",
+      "reddit": "https://reddit.com/r/Avax",
+      "telegram": "https://t.me/avalancheavax",
+      "discord": "https://discord.com/invite/RwXY7P6",
+      "medium": "https://medium.com/avalancheavax",
+      "instagram": null
+    },
+    "code": "AVAX",
+    "rate": 15.792919255548457,
+    "volume": 350788620,
+    "cap": 5141744405,
+    "delta": {
+      "hour": 1.0106,
+      "day": 0.9254,
+      "week": 1.0295,
+      "month": 0.896,
+      "quarter": 1.2391,
+      "year": 0.224
+    }
+  },
+  {
+    "name": "Chainlink",
+    "rank": 19,
+    "age": 2007,
+    "color": "#2959d9",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/link.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/link.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/link.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/link.webp",
+    "exchanges": 151,
+    "markets": 314,
+    "pairs": 59,
+    "categories": [
+      "oracle",
+      "token_bridges",
+      "security",
+      "analytics"
+    ],
+    "allTimeHighUSD": 52.85091701629316,
+    "circulatingSupply": 517099970,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "links": {
+      "website": "https://chain.link/",
+      "whitepaper": "https://research.chain.link/whitepaper-v2.pdf?_ga=2.202988689.147345121.1621217890-329871762.1621217890",
+      "twitter": "https://twitter.com/chainlink",
+      "reddit": "https://reddit.com/r/chainlink",
+      "telegram": "https://t.me/chainlinkofficial",
+      "discord": "https://discord.gg/aSK4zew",
+      "medium": null,
+      "instagram": null
+    },
+    "code": "LINK",
+    "rate": 6.648616459743332,
+    "volume": 432120140,
+    "cap": 3437999372,
+    "delta": {
+      "hour": 1.0102,
+      "day": 0.9546,
+      "week": 1.0107,
+      "month": 0.9989,
+      "quarter": 1.0617,
+      "year": 0.4713
+    }
+  },
+  {
+    "name": "Cosmos",
+    "rank": 20,
+    "age": 2348,
+    "color": "#30334c",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/atom.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/atom.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/atom.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/atom.webp",
+    "exchanges": 63,
+    "markets": 158,
+    "pairs": 57,
+    "categories": [
+      "iot",
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 44.477623439842205,
+    "circulatingSupply": 238524829,
+    "totalSupply": 238524829,
+    "maxSupply": null,
+    "links": {
+      "website": "https://cosmos.network/",
+      "whitepaper": "https://cosmos.network/resources/whitepaper",
+      "twitter": "https://twitter.com/cosmos",
+      "reddit": "https://reddit.com/r/cosmosnetwork",
+      "telegram": "https://t.me/cosmosproject",
+      "discord": "https://discord.com/invite/cosmosnetwork",
+      "medium": null,
+      "instagram": null
+    },
+    "code": "ATOM",
+    "rate": 12.59866641401605,
+    "volume": 277577684,
+    "cap": 3005094752,
+    "delta": {
+      "hour": 1.0105,
+      "day": 0.9792,
+      "week": 1.166,
+      "month": 0.9548,
+      "quarter": 1.3715,
+      "year": 0.4628
+    }
+  },
+  {
+    "name": "Serum",
+    "rank": 21,
+    "age": 946,
+    "color": "#12b0c9",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/srm.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/srm.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/srm.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/srm.webp",
+    "exchanges": 35,
+    "markets": 51,
+    "pairs": 12,
+    "categories": [
+      "dex"
+    ],
+    "allTimeHighUSD": 13.604530577447669,
+    "circulatingSupply": 10160750776,
+    "totalSupply": 10161000000,
+    "maxSupply": 10000000000,
+    "links": {
+      "website": "https://projectserum.com/",
+      "whitepaper": "https://projectserum.com/static/media/serum_white_paper.88d98f84.pdf",
+      "twitter": "https://twitter.com/projectserum",
+      "reddit": "https://reddit.com/r/ProjectSerum",
+      "telegram": "https://t.me/ProjectSerum",
+      "discord": "https://discord.com/invite/zxPsXcB",
+      "medium": "https://projectserum.medium.com/",
+      "instagram": null
+    },
+    "code": "SRM",
+    "rate": 0.29482519556718434,
+    "volume": 6879626,
+    "cap": 2995645335,
+    "delta": {
+      "hour": 1.0097,
+      "day": 1.069,
+      "week": 1.1013,
+      "month": 0.8158,
+      "quarter": 1.509,
+      "year": 0.1597
+    }
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "rank": 22,
+    "age": 1504,
+    "color": "#f09444",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/wbtc.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/wbtc.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/wbtc.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/wbtc.webp",
+    "exchanges": 108,
+    "markets": 242,
+    "pairs": 75,
+    "categories": [
+      "wrapped_tokens"
+    ],
+    "allTimeHighUSD": 69231.28625326925,
+    "circulatingSupply": 118282,
+    "totalSupply": 118282,
+    "maxSupply": null,
+    "links": {
+      "website": "https://www.wbtc.network/",
+      "whitepaper": "https://wbtc.network/assets/wrapped-tokens-whitepaper.pdf",
+      "twitter": "https://twitter.com/WrappedBTC",
+      "reddit": null,
+      "telegram": null,
+      "discord": null,
+      "medium": null,
+      "instagram": null
+    },
+    "code": "WBTC",
+    "rate": 24837.887273748514,
+    "volume": 424374562,
+    "cap": 2937874983,
+    "delta": {
+      "hour": 1.0135,
+      "day": 1.0067,
+      "week": 1.1452,
+      "month": 1.1384,
+      "quarter": 1.4591,
+      "year": 0.6128
+    }
+  },
+  {
+    "name": "Uniswap",
+    "rank": 23,
+    "age": 910,
+    "color": "#fc047c",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/uni.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/uni.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/uni.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/uni.webp",
+    "exchanges": 102,
+    "markets": 206,
+    "pairs": 40,
+    "categories": [
+      "dex",
+      "yield_farming",
+      "governance"
+    ],
+    "allTimeHighUSD": 45.009351908031135,
+    "circulatingSupply": 471681907,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "links": {
+      "website": "https://uniswap.org/",
+      "whitepaper": "https://uniswap.org/whitepaper-v3.pdf",
+      "twitter": "https://twitter.com/Uniswap",
+      "reddit": "https://reddit.com/r/Uniswap",
+      "telegram": null,
+      "discord": "https://discord.com/invite/FCfyBSbCU5",
+      "medium": null,
+      "instagram": null
+    },
+    "code": "UNI",
+    "rate": 5.941587652453394,
+    "volume": 146396562,
+    "cap": 2802539395,
+    "delta": {
+      "hour": 1.0092,
+      "day": 0.9437,
+      "week": 0.9762,
+      "month": 0.9428,
+      "quarter": 1.0696,
+      "year": 0.6701
+    }
+  },
+  {
+    "name": "Monero",
+    "rank": 24,
+    "age": 3254,
+    "color": "#fc6404",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/xmr.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xmr.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/xmr.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xmr.webp",
+    "exchanges": 38,
+    "markets": 76,
+    "pairs": 15,
+    "categories": [
+      "privacy_coins"
+    ],
+    "allTimeHighUSD": 516.843201123428,
+    "circulatingSupply": 18081370,
+    "totalSupply": 18081370,
+    "maxSupply": null,
+    "links": {
+      "website": "http://www.monero.cc",
+      "whitepaper": "https://github.com/monero-project/research-lab/blob/master/whitepaper/whitepaper.pdf",
+      "twitter": "https://twitter.com/monero",
+      "reddit": "https://reddit.com/r/monero",
+      "telegram": "https://t.me/bitmonero",
+      "discord": null,
+      "medium": null,
+      "instagram": null
+    },
+    "code": "XMR",
+    "rate": 149.27655787092306,
+    "volume": 117218849,
+    "cap": 2699124675,
+    "delta": {
+      "hour": 1.0114,
+      "day": 1.0056,
+      "week": 1.0121,
+      "month": 0.9565,
+      "quarter": 1.0108,
+      "year": 0.7832
+    }
+  },
+  {
+    "name": "Ethereum Classic",
+    "rank": 25,
+    "age": 2425,
+    "color": "#3ab93a",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/etc.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/etc.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/etc.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/etc.webp",
+    "exchanges": 74,
+    "markets": 170,
+    "pairs": 35,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 168.98136358110946,
+    "circulatingSupply": 139937138,
+    "totalSupply": 210700000,
+    "maxSupply": 210700000,
+    "links": {
+      "website": "https://ethereumclassic.github.io/",
+      "whitepaper": "https://github.com/ethereum/wiki/wiki/White-Paper",
+      "twitter": "https://twitter.com/eth_classic",
+      "reddit": "https://reddit.com/r/EthereumClassic",
+      "telegram": null,
+      "discord": "https://discord.com/invite/bMGuZsA",
+      "medium": null,
+      "instagram": null
+    },
+    "code": "ETC",
+    "rate": 18.70107693226997,
+    "volume": 172278956,
+    "cap": 2616975183,
+    "delta": {
+      "hour": 1.0103,
+      "day": 0.9293,
+      "week": 1.0233,
+      "month": 0.9075,
+      "quarter": 1.0676,
+      "year": 0.7116
+    }
+  },
+  {
+    "name": "Bitcoin Cash",
+    "rank": 26,
+    "age": 2053,
+    "color": "#f1f9f7",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/bch.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bch.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/bch.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bch.webp",
+    "exchanges": 88,
+    "markets": 195,
+    "pairs": 46,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 4355.62,
+    "circulatingSupply": 19338393,
+    "totalSupply": 19338393,
+    "maxSupply": 21000000,
+    "links": {
+      "website": "https://www.bitcoincash.org/",
+      "whitepaper": "https://www.bitcoincash.org/bitcoin.pdf",
+      "twitter": null,
+      "reddit": "https://reddit.com/r/Bitcoincash",
+      "telegram": null,
+      "discord": null,
+      "medium": null,
+      "instagram": null
+    },
+    "code": "BCH",
+    "rate": 128.76224748933677,
+    "volume": 140855228,
+    "cap": 2490054946,
+    "delta": {
+      "hour": 1.0114,
+      "day": 0.9654,
+      "week": 1.0931,
+      "month": 0.9968,
+      "quarter": 1.246,
+      "year": 0.442
+    }
+  },
+  {
+    "name": "Filecoin",
+    "rank": 27,
+    "age": 881,
+    "color": "#0492fc",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/fil.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/fil.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/fil.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/fil.webp",
+    "exchanges": 40,
+    "markets": 75,
+    "pairs": 16,
+    "categories": [
+      "cloud_hosting",
+      "storage"
+    ],
+    "allTimeHighUSD": 237.64668979882163,
+    "circulatingSupply": 405361788,
+    "totalSupply": 1972610415,
+    "maxSupply": 1972610415,
+    "links": {
+      "website": "https://filecoin.io/",
+      "whitepaper": "https://docs.filecoin.io/",
+      "twitter": "https://twitter.com/Filecoin",
+      "reddit": "https://reddit.com/r/filecoin",
+      "telegram": null,
+      "discord": null,
+      "medium": null,
+      "instagram": null
+    },
+    "code": "FIL",
+    "rate": 5.846657369398295,
+    "volume": 447077557,
+    "cap": 2370011485,
+    "delta": {
+      "hour": 1.0136,
+      "day": 0.8754,
+      "week": 1.0013,
+      "month": 1.2106,
+      "quarter": 1.4947,
+      "year": 0.3412
+    }
+  },
+  {
+    "name": "Stellar",
+    "rank": 28,
+    "age": 3144,
+    "color": "#040404",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/xlm.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/xlm.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xlm.webp",
+    "exchanges": 81,
+    "markets": 224,
+    "pairs": 59,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 0.921644339265009,
+    "circulatingSupply": 26463339351,
+    "totalSupply": 50001787430,
+    "maxSupply": null,
+    "links": {
+      "website": "https://www.stellar.org",
+      "whitepaper": "https://www.stellar.org/papers/stellar-consensus-protocol.pdf",
+      "twitter": "https://twitter.com/StellarOrg",
+      "reddit": "https://reddit.com/r/stellar",
+      "telegram": null,
+      "discord": null,
+      "medium": "https://medium.com/stellar-community",
+      "instagram": null
+    },
+    "code": "XLM",
+    "rate": 0.08481837246789387,
+    "volume": 83491845,
+    "cap": 2244577374,
+    "delta": {
+      "hour": 1.0097,
+      "day": 0.9787,
+      "week": 1.0446,
+      "month": 1.0104,
+      "quarter": 1.0683,
+      "year": 0.4593
+    }
+  },
+  {
+    "name": "Lido DAO",
+    "rank": 29,
+    "age": 799,
+    "color": "#f49b8a",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/ldo.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ldo.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/ldo.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ldo.webp",
+    "exchanges": 54,
+    "markets": 79,
+    "pairs": 18,
+    "categories": [
+      "yield_aggregators",
+      "governance"
+    ],
+    "allTimeHighUSD": 7.327907374360521,
+    "circulatingSupply": 854459317,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "links": {
+      "website": "https://stake.lido.fi/",
+      "whitepaper": "https://docs.lido.fi/",
+      "twitter": "https://twitter.com/lidofinance",
+      "reddit": "https://reddit.com/r/LidoFinance",
+      "telegram": "https://t.me/lidofinance",
+      "discord": "https://discord.com/invite/vgdPfhZ",
+      "medium": null,
+      "instagram": null
+    },
+    "code": "LDO",
+    "rate": 2.408086433606233,
+    "volume": 394287058,
+    "cap": 2057611889,
+    "delta": {
+      "hour": 1.021,
+      "day": 0.8769,
+      "week": 1.033,
+      "month": 1.0157,
+      "quarter": 2.2309,
+      "year": 0.881
+    }
+  },
+  {
+    "name": "Cronos",
+    "rank": 30,
+    "age": 1464,
+    "color": "#0c2c6c",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/cro.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/cro.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/cro.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/cro.webp",
+    "exchanges": 28,
+    "markets": 97,
+    "pairs": 53,
+    "categories": [
+      "cex",
+      "smart_contract_platforms",
+      "debit_cards",
+      "wallets"
+    ],
+    "allTimeHighUSD": 0.9516849148075289,
+    "circulatingSupply": 25263013692,
+    "totalSupply": 30263013692,
+    "maxSupply": null,
+    "links": {
+      "website": "https://www.crypto.com/",
+      "whitepaper": "https://whitepaper.cronos.org/",
+      "twitter": "https://twitter.com/cryptocom",
+      "reddit": "https://reddit.com/r/Crypto_com",
+      "telegram": "https://t.me/CryptoComOfficial",
+      "discord": "https://discord.com/invite/nsp9JTC",
+      "medium": "https://medium.com/@crypto.com",
+      "instagram": "https://instagram.com/cryptocomofficial"
+    },
+    "code": "CRO",
+    "rate": 0.07016755009283199,
+    "volume": 16688301,
+    "cap": 1772643779,
+    "delta": {
+      "hour": 1.0112,
+      "day": 0.9699,
+      "week": 1.0498,
+      "month": 0.9531,
+      "quarter": 1.1682,
+      "year": 0.1776
+    }
+  },
+  {
+    "name": "NEAR Protocol",
+    "rank": 31,
+    "age": 872,
+    "color": "#040404",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/near.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/near.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/near.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/near.webp",
+    "exchanges": 64,
+    "markets": 142,
+    "pairs": 44,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 20.46907836312353,
+    "circulatingSupply": 866021029,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "links": {
+      "website": "https://near.org/",
+      "whitepaper": "https://docs.near.org/docs/develop/basics/getting-started",
+      "twitter": "https://twitter.com/nearprotocol",
+      "reddit": "https://reddit.com/r/nearprotocol",
+      "telegram": "https://t.me/cryptonear",
+      "discord": "https://discord.com/invite/UY9Xf2k",
+      "medium": "https://medium.com/nearprotocol",
+      "instagram": "https://www.instagram.com/near_protocol"
+    },
+    "code": "NEAR",
+    "rate": 1.967753835375755,
+    "volume": 187815214,
+    "cap": 1704116201,
+    "delta": {
+      "hour": 1.0122,
+      "day": 0.9342,
+      "week": 1.0588,
+      "month": 0.9031,
+      "quarter": 1.2833,
+      "year": 0.1932
+    }
+  },
+  {
+    "name": "Hedera Hashgraph",
+    "rank": 32,
+    "age": 1263,
+    "color": "#f8f8f8",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/hbar.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/hbar.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/hbar.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/hbar.webp",
+    "exchanges": 35,
+    "markets": 64,
+    "pairs": 16,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 0.569398985191319,
+    "circulatingSupply": 28083557506,
+    "totalSupply": 50000000000,
+    "maxSupply": 50000000000,
+    "links": {
+      "website": "https://hedera.com/",
+      "whitepaper": "https://hedera.com/papers",
+      "twitter": "https://twitter.com/hedera",
+      "reddit": "https://reddit.com/r/hashgraph",
+      "telegram": "https://t.me/hederahashgraph",
+      "discord": "https://discord.com/invite/hedera",
+      "medium": "https://medium.com/hedera",
+      "instagram": "https://www.instagram.com/hashgraph/"
+    },
+    "code": "HBAR",
+    "rate": 0.060632140385112145,
+    "volume": 51904147,
+    "cap": 1702766201,
+    "delta": {
+      "hour": 1.0121,
+      "day": 0.9184,
+      "week": 1.0047,
+      "month": 0.7072,
+      "quarter": 1.351,
+      "year": 0.3001
+    }
+  },
+  {
+    "name": "Immutable X",
+    "rank": 33,
+    "age": 495,
+    "color": "#13242c",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/_imx.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/_imx.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/_imx.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/_imx.webp",
+    "exchanges": 51,
+    "markets": 70,
+    "pairs": 13,
+    "categories": [
+      "smart_contract_platforms",
+      "nfts",
+      "gaming"
+    ],
+    "allTimeHighUSD": 9.49962548516342,
+    "circulatingSupply": 1329973035,
+    "totalSupply": 2000000000,
+    "maxSupply": 2000000000,
+    "links": {
+      "website": "https://www.immutable.com",
+      "whitepaper": "https://support.immutable.com/hc/en-us/articles/4405227590799",
+      "twitter": "https://twitter.com/Immutable",
+      "reddit": "https://reddit.com/r/ImmutableX",
+      "telegram": "https://t.me/immutablex",
+      "discord": "https://discord.com/invite/6GjgPkp464",
+      "medium": "https://immutablex.medium.com/",
+      "instagram": null
+    },
+    "code": "_IMX",
+    "rate": 1.2164325248234493,
+    "volume": 667564849,
+    "cap": 1617822457,
+    "delta": {
+      "hour": 0.9963,
+      "day": 0.9851,
+      "week": 1.3035,
+      "month": 1.2604,
+      "quarter": 2.7158,
+      "year": 0.8042
+    }
+  },
+  {
+    "name": "Aptos",
+    "rank": 34,
+    "age": 148,
+    "color": "#040404",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/apt.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/apt.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/apt.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/apt.webp",
+    "exchanges": 30,
+    "markets": 54,
+    "pairs": 12,
+    "categories": [
+      "smart_contract_platforms",
+      "nfts"
+    ],
+    "allTimeHighUSD": 20.24643258298312,
+    "circulatingSupply": 130000000,
+    "totalSupply": 1000935772,
+    "maxSupply": null,
+    "links": {
+      "website": "https://aptosfoundation.org/",
+      "whitepaper": "https://aptos.dev/aptos-white-paper/aptos-white-paper-index/",
+      "twitter": "https://twitter.com/AptosFoundation",
+      "reddit": null,
+      "telegram": null,
+      "discord": "https://discord.com/invite/aptoslabs",
+      "medium": "https://aptoslabs.medium.com/",
+      "instagram": null
+    },
+    "code": "APT",
+    "rate": 12.322370149548652,
+    "volume": 810875268,
+    "cap": 1601908119,
+    "delta": {
+      "hour": 1.0114,
+      "day": 0.9123,
+      "week": 1.1366,
+      "month": 0.8757,
+      "quarter": 2.7267,
+      "year": null
+    }
+  },
+  {
+    "name": "ApeCoin",
+    "rank": 35,
+    "age": 363,
+    "color": "#ecf0f6",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/ape.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ape.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/ape.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ape.webp",
+    "exchanges": 72,
+    "markets": 121,
+    "pairs": 22,
+    "categories": [
+      "governance",
+      "nfts",
+      "gaming"
+    ],
+    "allTimeHighUSD": 26.904219658917285,
+    "circulatingSupply": 368593750,
+    "totalSupply": 999998553,
+    "maxSupply": 1000000000,
+    "links": {
+      "website": "https://apecoin.com/",
+      "whitepaper": null,
+      "twitter": "https://twitter.com/apecoin",
+      "reddit": "https://reddit.com/r/BoredApeYachtClub",
+      "telegram": null,
+      "discord": "https://discord.com/invite/wjH7hGz2yS",
+      "medium": "https://boredapeyachtclub.medium.com/",
+      "instagram": "https://www.instagram.com/boredapeyachtclub/"
+    },
+    "code": "APE",
+    "rate": 4.251004874103061,
+    "volume": 217508634,
+    "cap": 1566893828,
+    "delta": {
+      "hour": 1.0251,
+      "day": 0.9773,
+      "week": 0.9818,
+      "month": 0.8424,
+      "quarter": 1.0984,
+      "year": null
+    }
+  },
+  {
+    "name": "Internet Computer",
+    "rank": 36,
+    "age": 674,
+    "color": "#ea594e",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/icp.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/icp.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/icp.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/icp.webp",
+    "exchanges": 42,
+    "markets": 84,
+    "pairs": 16,
+    "categories": [
+      "cloud_hosting",
+      "storage",
+      "governance"
+    ],
+    "allTimeHighUSD": 494.5636424153892,
+    "circulatingSupply": 296381231,
+    "totalSupply": 497099177,
+    "maxSupply": null,
+    "links": {
+      "website": "https://internetcomputer.org/",
+      "whitepaper": "https://internetcomputer.org/whitepaper.pdf",
+      "twitter": "https://twitter.com/dfinity",
+      "reddit": "https://reddit.com/r/dfinity",
+      "telegram": "https://t.me/dfinity/",
+      "discord": "https://discord.com/invite/cE92CymEmJ",
+      "medium": "https://medium.com/dfinity-network-blog",
+      "instagram": null
+    },
+    "code": "ICP",
+    "rate": 5.215430831573114,
+    "volume": 79885908,
+    "cap": 1545755810,
+    "delta": {
+      "hour": 1.0063,
+      "day": 0.9454,
+      "week": 1.0266,
+      "month": 0.9592,
+      "quarter": 1.3575,
+      "year": 0.3263
+    }
+  },
+  {
+    "name": "Quant",
+    "rank": 37,
+    "age": 1678,
+    "color": "#ec3b1b",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/qnt.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/qnt.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/qnt.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/qnt.webp",
+    "exchanges": 39,
+    "markets": 64,
+    "pairs": 17,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 427.17462457402735,
+    "circulatingSupply": 12072738,
+    "totalSupply": 14612493,
+    "maxSupply": 14612491,
+    "links": {
+      "website": "https://quant.network/",
+      "whitepaper": "https://uploads-ssl.webflow.com/6006946fee85fda61f666256/60211c93f1cc59419c779c42_Quant_Overledger_Whitepaper_Sep_2019.pdf",
+      "twitter": "https://twitter.com/quant_network",
+      "reddit": "https://reddit.com/r/QuantNetwork",
+      "telegram": "https://t.me/QuantOverledger",
+      "discord": null,
+      "medium": "https://quantnetwork.medium.com",
+      "instagram": null
+    },
+    "code": "QNT",
+    "rate": 125.36849359700479,
+    "volume": 49562600,
+    "cap": 1513540977,
+    "delta": {
+      "hour": 1.0115,
+      "day": 0.9765,
+      "week": 1.0856,
+      "month": 0.9407,
+      "quarter": 1.0617,
+      "year": 1.1196
+    }
+  },
+  {
+    "name": "VeChain",
+    "rank": 38,
+    "age": 2032,
+    "color": "#6488e1",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/vet.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/vet.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/vet.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/vet.webp",
+    "exchanges": 36,
+    "markets": 103,
+    "pairs": 37,
+    "categories": [
+      "logistics",
+      "ai",
+      "iot",
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 0.26773718608293,
+    "circulatingSupply": 66760741299,
+    "totalSupply": 85985041177,
+    "maxSupply": 86712634466,
+    "links": {
+      "website": "https://www.vechain.org/",
+      "whitepaper": "https://cdn.vechain.com/vechain_ico_ideas_of_development_en.pdf",
+      "twitter": "https://twitter.com/vechainofficial",
+      "reddit": "https://reddit.com/r/vechain",
+      "telegram": "https://t.me/vechain_official_english",
+      "discord": null,
+      "medium": null,
+      "instagram": null
+    },
+    "code": "VET",
+    "rate": 0.022456111983160554,
+    "volume": 117979373,
+    "cap": 1499186683,
+    "delta": {
+      "hour": 1.0123,
+      "day": 0.9401,
+      "week": 1.0222,
+      "month": 0.9738,
+      "quarter": 1.2477,
+      "year": 0.4789
+    }
+  },
+  {
+    "name": "Algorand",
+    "rank": 39,
+    "age": 1363,
+    "color": "#efefef",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/algo.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/algo.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/algo.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/algo.webp",
+    "exchanges": 47,
+    "markets": 119,
+    "pairs": 31,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 3.228152051480498,
+    "circulatingSupply": 7116283424,
+    "totalSupply": 10000000000,
+    "maxSupply": 10000000000,
+    "links": {
+      "website": "http://algorand.foundation",
+      "whitepaper": "https://www.algorand.com/resources/white-papers",
+      "twitter": "https://twitter.com/AlgoFoundation",
+      "reddit": "https://reddit.com/r/AlgorandOfficial",
+      "telegram": "https://t.me/AlgorandFoundation",
+      "discord": "https://discord.gg/84AActu3at",
+      "medium": "https://medium.com/algorand",
+      "instagram": null
+    },
+    "code": "ALGO",
+    "rate": 0.20772485918661843,
+    "volume": 77687989,
+    "cap": 1478228972,
+    "delta": {
+      "hour": 1.0071,
+      "day": 0.9404,
+      "week": 1.0358,
+      "month": 0.8511,
+      "quarter": 1.0083,
+      "year": 0.2903
+    }
+  },
+  {
+    "name": "The Graph",
+    "rank": 40,
+    "age": 818,
+    "color": "#453bab",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/grt.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/grt.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/grt.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/grt.webp",
+    "exchanges": 71,
+    "markets": 129,
+    "pairs": 25,
+    "categories": [
+      "analytics",
+      "cloud_hosting"
+    ],
+    "allTimeHighUSD": 2.8886968848938896,
+    "circulatingSupply": 8838119984,
+    "totalSupply": 10000000000,
+    "maxSupply": 10000000000,
+    "links": {
+      "website": "https://thegraph.com/",
+      "whitepaper": "https://thegraph.com/docs/en/",
+      "twitter": "https://twitter.com/graphprotocol",
+      "reddit": "https://reddit.com/r/thegraph",
+      "telegram": "https://t.me/graphprotocol",
+      "discord": "https://discord.com/invite/vtvv7FP",
+      "medium": null,
+      "instagram": null
+    },
+    "code": "GRT",
+    "rate": 0.15116165671330103,
+    "volume": 190771673,
+    "cap": 1335984859,
+    "delta": {
+      "hour": 1.0188,
+      "day": 0.9836,
+      "week": 1.2358,
+      "month": 0.9775,
+      "quarter": 2.4553,
+      "year": 0.3592
+    }
+  },
+  {
+    "name": "Stacks",
+    "rank": 41,
+    "age": 1170,
+    "color": "#4c4cec",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/_stx.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/_stx.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/_stx.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/_stx.webp",
+    "exchanges": 22,
+    "markets": 48,
+    "pairs": 16,
+    "categories": [
+      "smart_contract_platforms",
+      "dns"
+    ],
+    "allTimeHighUSD": 3.205662787568635,
+    "circulatingSupply": 1366646180,
+    "totalSupply": 1818000000,
+    "maxSupply": 1818000000,
+    "links": {
+      "website": "https://www.stacks.co/",
+      "whitepaper": "https://docs.stacks.co/docs/intro",
+      "twitter": "https://twitter.com/stacks",
+      "reddit": "https://reddit.com/r/stacks",
+      "telegram": "https://t.me/BlockstackChat",
+      "discord": "https://discord.com/invite/zrvWsQC",
+      "medium": null,
+      "instagram": null
+    },
+    "code": "_STX",
+    "rate": 0.9259798234400228,
+    "volume": 716578679,
+    "cap": 1265486788,
+    "delta": {
+      "hour": 1.0299,
+      "day": 0.9023,
+      "week": 1.5099,
+      "month": 3.1564,
+      "quarter": 3.4265,
+      "year": 0.7482
+    }
+  },
+  {
+    "name": "Decentraland",
+    "rank": 42,
+    "age": 2006,
+    "color": "#f64e5c",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/mana.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/mana.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/mana.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/mana.webp",
+    "exchanges": 83,
+    "markets": 164,
+    "pairs": 24,
+    "categories": [
+      "metaverse",
+      "vr",
+      "gaming",
+      "nfts"
+    ],
+    "allTimeHighUSD": 5.871183877218146,
+    "circulatingSupply": 2193195127,
+    "totalSupply": 2193195127,
+    "maxSupply": 2805886393,
+    "links": {
+      "website": "https://decentraland.org/",
+      "whitepaper": "https://decentraland.org/whitepaper.pdf",
+      "twitter": "https://twitter.com/decentraland",
+      "reddit": "https://reddit.com/r/decentraland",
+      "telegram": "https://t.me/dcl_market",
+      "discord": null,
+      "medium": "https://medium.com/@decentraland",
+      "instagram": "https://www.instagram.com/decentralandoficial/"
+    },
+    "code": "MANA",
+    "rate": 0.5666392718236765,
+    "volume": 155207003,
+    "cap": 1242750490,
+    "delta": {
+      "hour": 1.0138,
+      "day": 0.9347,
+      "week": 1.0383,
+      "month": 0.8853,
+      "quarter": 1.5551,
+      "year": 0.2418
+    }
+  },
+  {
+    "name": "EOS",
+    "rank": 43,
+    "age": 2083,
+    "color": "#ebebeb",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/eos.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/eos.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/eos.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/eos.webp",
+    "exchanges": 78,
+    "markets": 205,
+    "pairs": 39,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 23.95565521183252,
+    "circulatingSupply": 1098203350,
+    "totalSupply": 1098203350,
+    "maxSupply": null,
+    "links": {
+      "website": "https://eos.io/",
+      "whitepaper": "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md",
+      "twitter": "https://twitter.com/block_one_",
+      "reddit": "https://reddit.com/r/EOS",
+      "telegram": "https://t.me/EOSProject",
+      "discord": null,
+      "medium": "https://medium.com/eosio",
+      "instagram": null
+    },
+    "code": "EOS",
+    "rate": 1.076895250342076,
+    "volume": 188757980,
+    "cap": 1182649972,
+    "delta": {
+      "hour": 1.0192,
+      "day": 0.9667,
+      "week": 0.9266,
+      "month": 1.0472,
+      "quarter": 1.1526,
+      "year": 0.5261
+    }
+  },
+  {
+    "name": "Axie Infinity",
+    "rank": 44,
+    "age": 861,
+    "color": "#0f48b3",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/axs.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/axs.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/axs.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/axs.webp",
+    "exchanges": 68,
+    "markets": 115,
+    "pairs": 18,
+    "categories": [
+      "gaming",
+      "nfts"
+    ],
+    "allTimeHighUSD": 164.99042139105435,
+    "circulatingSupply": 146834596,
+    "totalSupply": 270000000,
+    "maxSupply": 270000000,
+    "links": {
+      "website": "https://axieinfinity.com/",
+      "whitepaper": "https://whitepaper.axieinfinity.com/",
+      "twitter": "https://twitter.com/axieinfinity",
+      "reddit": "https://reddit.com/r/axieinfinity",
+      "telegram": "https://t.me/axieinfinity",
+      "discord": "https://discord.com/invite/axie",
+      "medium": "https://axieinfinity.medium.com/",
+      "instagram": "https://www.instagram.com/axieinfinity/"
+    },
+    "code": "AXS",
+    "rate": 8.00519202404928,
+    "volume": 109433697,
+    "cap": 1175439137,
+    "delta": {
+      "hour": 1.013,
+      "day": 0.9345,
+      "week": 1.006,
+      "month": 0.8366,
+      "quarter": 1.099,
+      "year": 0.1637
+    }
+  },
+  {
+    "name": "Tezos",
+    "rank": 45,
+    "age": 1811,
+    "color": "#2c84fc",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/xtz.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xtz.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/xtz.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xtz.webp",
+    "exchanges": 45,
+    "markets": 100,
+    "pairs": 34,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 9.085601324153052,
+    "circulatingSupply": 930856832,
+    "totalSupply": 952137033,
+    "maxSupply": null,
+    "links": {
+      "website": "https://www.tezos.com/",
+      "whitepaper": "https://tezos.gitlab.io/",
+      "twitter": "https://twitter.com/tezos",
+      "reddit": "https://reddit.com/r/tezos",
+      "telegram": "https://t.me/tezosplatform",
+      "discord": "https://discord.gg/e6dCF7B",
+      "medium": "https://medium.com/tezos",
+      "instagram": null
+    },
+    "code": "XTZ",
+    "rate": 1.201199004357572,
+    "volume": 53609186,
+    "cap": 1118144300,
+    "delta": {
+      "hour": 1.0098,
+      "day": 0.9914,
+      "week": 1.1609,
+      "month": 1.1623,
+      "quarter": 1.3108,
+      "year": 0.3973
+    }
+  },
+  {
+    "name": "The Sandbox",
+    "rank": 46,
+    "age": 942,
+    "color": "#0598f5",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/sand.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/sand.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/sand.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/sand.webp",
+    "exchanges": 77,
+    "markets": 131,
+    "pairs": 30,
+    "categories": [
+      "metaverse",
+      "gaming",
+      "nfts",
+      "governance"
+    ],
+    "allTimeHighUSD": 8.35315043328023,
+    "circulatingSupply": 1811481927,
+    "totalSupply": 3000000000,
+    "maxSupply": null,
+    "links": {
+      "website": "https://www.sandbox.game/en/about/sand/",
+      "whitepaper": "https://installers.sandbox.game/The_Sandbox_Whitepaper_2020.pdf?_gl=1*sentwi*_ga*MTIyNzEzOTE3MS4xNjc0NzcxNjg5*_ga_R0TLSXCC02*MTY3NDc3MTY4OS4xLjAuMTY3NDc3MTY5NC4wLjAuMA..&_ga=2.126557070.2075600427.1674771689-1227139171.1674771689",
+      "twitter": "https://twitter.com/TheSandboxGame",
+      "reddit": "https://reddit.com/r/TheSandboxGaming",
+      "telegram": "https://t.me/sandboxgame",
+      "discord": "https://discord.com/invite/vAe4zvY",
+      "medium": "https://medium.com/sandbox-game",
+      "instagram": "https://instagram.com/thesandboxgame"
+    },
+    "code": "SAND",
+    "rate": 0.5958657529196497,
+    "volume": 201057898,
+    "cap": 1079400042,
+    "delta": {
+      "hour": 1.0111,
+      "day": 0.9353,
+      "week": 1.0394,
+      "month": 0.8789,
+      "quarter": 1.1549,
+      "year": 0.204
+    }
+  },
+  {
+    "name": "Aave",
+    "rank": 47,
+    "age": 883,
+    "color": "#688cb5",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/aave.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/aave.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/aave.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/aave.webp",
+    "exchanges": 109,
+    "markets": 209,
+    "pairs": 37,
+    "categories": [
+      "lending",
+      "governance",
+      "yield_aggregators"
+    ],
+    "allTimeHighUSD": 663.2190116456594,
+    "circulatingSupply": 14324965,
+    "totalSupply": 16000000,
+    "maxSupply": 16000000,
+    "links": {
+      "website": "https://aave.com/",
+      "whitepaper": "https://github.com/aave/protocol-v2/blob/master/aave-v2-whitepaper.pdf",
+      "twitter": "https://twitter.com/AaveAave",
+      "reddit": "https://reddit.com/r/Aave_Official",
+      "telegram": "https://t.me/Aavesome",
+      "discord": "https://discord.com/invite/adPfquZDZc",
+      "medium": "https://medium.com/aave",
+      "instagram": "https://instagram.com/aave.aave"
+    },
+    "code": "AAVE",
+    "rate": 75.20385993870461,
+    "volume": 118800252,
+    "cap": 1077292661,
+    "delta": {
+      "hour": 1.017,
+      "day": 0.9521,
+      "week": 1.0345,
+      "month": 0.9317,
+      "quarter": 1.2862,
+      "year": 0.5992
+    }
+  },
+  {
+    "name": "MultiversX",
+    "rank": 48,
+    "age": 923,
+    "color": "#1c1c1c",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/egld.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/egld.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/egld.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/egld.webp",
+    "exchanges": 21,
+    "markets": 46,
+    "pairs": 22,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 548.0865877630855,
+    "circulatingSupply": 25136104,
+    "totalSupply": 25141256,
+    "maxSupply": null,
+    "links": {
+      "website": "https://multiversx.com/",
+      "whitepaper": "https://elrond.com/assets/files/elrond-whitepaper.pdf",
+      "twitter": "https://twitter.com/MultiversX",
+      "reddit": "https://reddit.com/r/elrondnetwork",
+      "telegram": "https://t.me/ElrondNetwork",
+      "discord": null,
+      "medium": null,
+      "instagram": "https://www.instagram.com/elrondnetwork/"
+    },
+    "code": "EGLD",
+    "rate": 41.43886806531538,
+    "volume": 26616336,
+    "cap": 1041611697,
+    "delta": {
+      "hour": 1.0067,
+      "day": 0.9523,
+      "week": 1.0501,
+      "month": 0.9901,
+      "quarter": 1.0111,
+      "year": 0.2499
+    }
+  },
+  {
+    "name": "Fantom",
+    "rank": 49,
+    "age": 1598,
+    "color": "#e4e4e4",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/ftm.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ftm.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/ftm.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ftm.webp",
+    "exchanges": 96,
+    "markets": 494,
+    "pairs": 181,
+    "categories": [
+      "smart_contract_platforms"
+    ],
+    "allTimeHighUSD": 3.463518790484801,
+    "circulatingSupply": 2541152731,
+    "totalSupply": 3175000000,
+    "maxSupply": 3175000000,
+    "links": {
+      "website": "https://fantom.foundation/",
+      "whitepaper": "https://docs.fantom.foundation/",
+      "twitter": "https://twitter.com/FantomFDN",
+      "reddit": "https://reddit.com/r/FantomFoundation",
+      "telegram": "https://t.me/Fantom_English",
+      "discord": "https://discord.com/invite/zS4Ek4WByA/",
+      "medium": "https://medium.com/fantomfoundation",
+      "instagram": "https://www.instagram.com/official.fantom.foundation/"
+    },
+    "code": "FTM",
+    "rate": 0.4059294435299824,
+    "volume": 361869777,
+    "cap": 1031528714,
+    "delta": {
+      "hour": 1.02,
+      "day": 0.912,
+      "week": 1.1289,
+      "month": 0.8667,
+      "quarter": 1.8583,
+      "year": 0.3333
+    }
+  },
+  {
+    "name": "Theta Network",
+    "rank": 50,
+    "age": 1883,
+    "color": "#25ced3",
+    "png32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/theta.png",
+    "png64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/theta.png",
+    "webp32": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/32/theta.webp",
+    "webp64": "https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/theta.webp",
+    "exchanges": 30,
+    "markets": 62,
+    "pairs": 16,
+    "categories": [
+      "social_media",
+      "nfts",
+      "streaming"
+    ],
+    "allTimeHighUSD": 15.710482367125962,
+    "circulatingSupply": 1000000000,
+    "totalSupply": 1000000000,
+    "maxSupply": 1000000000,
+    "links": {
+      "website": "https://www.thetatoken.org/",
+      "whitepaper": "https://s3.us-east-2.amazonaws.com/assets.thetatoken.org/Theta-white-paper-latest.pdf",
+      "twitter": "https://twitter.com/theta_network",
+      "reddit": "https://reddit.com/r/thetatoken",
+      "telegram": "https://t.me/joinchat/Gt6mbxJb-2XukwGA_atLjg",
+      "discord": "https://discord.com/invite/nC8mCkgEmV",
+      "medium": "https://medium.com/theta-network",
+      "instagram": "https://www.instagram.com/thetanetworktoken/"
+    },
+    "code": "THETA",
+    "rate": 1.0238518998174269,
+    "volume": 63689945,
+    "cap": 1023851900,
+    "delta": {
+      "hour": 1.0093,
+      "day": 0.9534,
+      "week": 1.0706,
+      "month": 0.9874,
+      "quarter": 1.2755,
+      "year": 0.3713
+    }
+  }
+]

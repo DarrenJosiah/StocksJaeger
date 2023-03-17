@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
-import axios from 'axios';
-import dummyJson from '../dummy.json'
-import NewsCard from './NewsCard';
+import axios from 'axios'
+import NewsCard from './NewsCard'
 
 function News() {
 
