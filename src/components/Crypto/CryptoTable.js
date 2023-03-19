@@ -41,7 +41,7 @@ function CryptoTable(props) {
                 <tbody> 
                         {dummyJson.map(crypto => {
                             return (
-                            <tr class="border-b border-gray-200 dark:border-gray-700">
+                            <tr key={crypto.code} class="border-b border-gray-200 dark:border-gray-700">
                                 <th scope="row" class="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-100 dark:text-white dark:bg-gray-800">
                                     <span>{crypto.rank}</span>
                                 </th>

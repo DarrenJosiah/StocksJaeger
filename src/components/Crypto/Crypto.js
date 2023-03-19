@@ -11,8 +11,8 @@ function Crypto() {
   
   useEffect(()=> {
     axios.get(url).then((res) => {
-      setCryptoJson(res.data);
-      console.log(res.data);
+      setCryptoJson(res.data.results);
+      console.log(res.data.results);
     }).catch((err) => {
       console.log(err);
     })
@@ -24,9 +24,12 @@ function Crypto() {
       <p class="text-7xl font-bold text-blue-900 mb-3">Crypto</p>
       <p class="text-1xl font-bold">♦ ♦</p>
       <p class="text-1xl font-bold mb-8">♦</p>
-      {/* <CryptoTable/> */}
       <Particle />
-      { cryptoJson && <CryptoTable cryptoJson={cryptoJson}/> }
+      { cryptoJson ? <CryptoTable cryptoJson={cryptoJson}/> : 
+        <div class="p-4 m-8 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400" role="alert">
+           No data yet.
+        </div>
+    }
     </div>
   )
 }

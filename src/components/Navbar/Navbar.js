@@ -2,10 +2,15 @@ import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
 
+function clickNavbarHandler(e) {
+//   let userSelected = e.target.getAttribute('href');
+//   console.log(e.target.getAttribute('href'));
+}
+
 const navigation = [
   { name: 'Home', href: '/', current: true },
-  { name: 'ETF', href: '/ETF', current: false },
-  { name: 'Crypto', href: '/Crypto', current: false },
+  { name: 'Crypto', href: 'Crypto', current: false },
+  { name: 'ETF', href: 'ETF', current: false },
   { name: 'Forex', href: 'Forex', current: false },
 ]
 
@@ -48,6 +53,7 @@ export default function Navbar() {
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
                       <a
+                        onClick={clickNavbarHandler}
                         key={item.name}
                         href={item.href}
                         className={classNames(

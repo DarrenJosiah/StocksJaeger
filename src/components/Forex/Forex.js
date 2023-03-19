@@ -1,8 +1,20 @@
 import React from 'react'
+import Particle from '../Home/Particle'
 
 function Forex() {
   return (
-    <div>Forex</div>
+    <div>
+      <p class="text-3xl font-bold mt-10">Hunting for</p>
+      <p class="text-7xl font-bold text-blue-900 mb-3">Forex</p>
+      <p class="text-1xl font-bold">♦ ♦</p>
+      <p class="text-1xl font-bold mb-8">♦</p>
+      <div class="p-4 m-8 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400" role="alert">
+        <p class="font-bold mb-8">Website is under construction.</p>
+        <p class="mb-2">Meanwhile, let me show you a photo of a Polite Cat</p>
+        <img class='px-8 mb-8' src='https://i.pinimg.com/originals/59/54/b4/5954b408c66525ad932faa693a647e3f.jpg'></img>
+      </div>
+      <Particle />
+    </div>
   )
 }
 
