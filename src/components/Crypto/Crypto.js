@@ -20,7 +20,7 @@ export default function Crypto() {
   const headers = {
     headers: {
       "content-type": "application/json",
-      "x-api-key": "e1473a5a-4f91-435a-9408-2e34810f3bd7",
+      "x-api-key": process.env.REACT_APP_CRYPTO_API_KEY,
     },
   };
 
