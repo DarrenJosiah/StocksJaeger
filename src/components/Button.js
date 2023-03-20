@@ -24,12 +24,12 @@ function Navbar(props) {
       <p>This is a title from Parent. {title}</p>
 
 
-       <button onClick={ clickHandler } class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+       <button onClick={ clickHandler } className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
        This is a {}
       </button>
       <hr>
       </hr>
-      <button onClick={ clickCounterHandler } class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"> Button counter</button>
+      <button onClick={ clickCounterHandler } className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"> Button counter</button>
       <p>Count from {counter}</p>
     </div>
   )
