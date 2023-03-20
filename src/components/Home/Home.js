@@ -7,7 +7,7 @@ export default function Home() {
       <p className="text-3xl font-bold mt-10">Welcome to</p>
       <p className="text-7xl font-bold text-blue-900 mb-3">Stocks Jaeger</p>
       <p className="text-1xl font-bold mb-8">
-        Home for the ETF, Crypto and Forex hunters
+        Home for the Crypto, ETF and Forex hunters
       </p>
 
       <img

@@ -7,13 +7,30 @@ export default function Crypto() {
   const [cryptoJson, setCryptoJson] = useState(null);
 
   const url =
-    "https://api.polygon.io/v2/aggs/grouped/locale/global/market/crypto/2023-01-17?adjusted=true&apiKey=HejgMzRaFDg5NzNBEvTWgfYgwpTje9Sa";
+    "https://api.livecoinwatch.com/coins/list";
+
+  const data =
+    { currency: "USD",
+      sort: "rank",
+      order: "ascending",
+      offset: 0,
+      limit: 50,
+      meta: true,
+    };
+
+  const headers =
+      { headers:
+        { 
+          "content-type": "application/json",
+          "x-api-key": "e1473a5a-4f91-435a-9408-2e34810f3bd7",
+        }
+      };
 
   useEffect(() => {
     axios
-      .get(url)
+      .post(url, data, headers)
       .then((res) => {
-        setCryptoJson(res.data.results);
+        setCryptoJson(res.data);
         console.log(res.data);
       })
       .catch((err) => {

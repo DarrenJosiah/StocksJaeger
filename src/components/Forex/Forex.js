@@ -9,7 +9,7 @@ function Forex() {
       <p className="text-1xl font-bold">♦ ♦</p>
       <p className="text-1xl font-bold mb-8">♦</p>
       <div
-        className="p-4 m-8 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400"
+        className="p-4 m-8 text-sm text-red-800 rounded-lg bg-red-50"
         role="alert"
       >
         <p className="font-bold mb-8">Website is under construction.</p>
