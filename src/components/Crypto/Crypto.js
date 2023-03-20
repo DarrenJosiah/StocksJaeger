@@ -13,7 +13,7 @@ export default function Crypto() {
     axios
       .get(url)
       .then((res) => {
-        setCryptoJson(res.data);
+        setCryptoJson(res.data.results);
         console.log(res.data);
       })
       .catch((err) => {
@@ -29,7 +29,7 @@ export default function Crypto() {
       <p class="text-1xl font-bold mb-8">♦</p>
       {/* <CryptoTable/> */}
       <Particle />
-      { cryptoJson && <CryptoTable cryptoJson={cryptoJson}/> }
+      {cryptoJson && <CryptoTable cryptoJson={cryptoJson} />}
     </div>
   );
 }

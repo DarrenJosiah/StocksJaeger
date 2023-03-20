@@ -1,7 +1,7 @@
 import React from "react";
 import dummyJson from "../dummy.json";
 
-function CryptoTable(props) {
+function CryptoTable({ cryptoJson }) {
   // https://www.livecoinwatch.com/
   // https://livecoinwatch.github.io/lcw-api-docs/#coinslist
 
@@ -50,50 +50,50 @@ function CryptoTable(props) {
             </tr>
           </thead>
           <tbody>
-            {dummyJson.map((crypto) => {
+            {cryptoJson.map((crypto) => {
               return (
                 <tr
-                  key={crypto.name}
+                  key={crypto.T}
                   className="border-b border-gray-200 dark:border-gray-700"
                 >
                   <th
                     scope="row"
                     className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-100 dark:text-white dark:bg-gray-800"
                   >
-                    <span>{crypto.rank}</span>
+                    <span>{crypto.index + 1}</span>
                   </th>
                   <td className="px-6 py-4 flex flex-row items-center bg-gray-50">
-                    <img className="mr-4" src={crypto.png32}></img>
+                    {/* <img className="mr-4" src={crypto.png32}></img> */}
                     <div className="flex flex-col items-start">
-                      <span>{crypto.name}</span>
-                      <small>{crypto.code}</small>
+                      <span>{crypto.T}</span>
+                      <small>{crypto.T}</small>
                     </div>
                   </td>
                   <td className="px-6 py-4 bg-gray-100 dark:bg-gray-800">
-                    ${crypto.rate.toFixed(2)}
+                    ${crypto.c.toFixed(2)}
                   </td>
-                  {(crypto.cap / 10000000000).toFixed(2) >= 1 ? (
+                  {(crypto.n / 10000000000).toFixed(2) >= 1 ? (
                     <td className="px-6 py-4 bg-gray-50">
-                      ${(crypto.cap / 10000000000).toFixed(2)}B
+                      ${(crypto.n / 10000000000).toFixed(2)}B
                     </td>
                   ) : (
                     <td className="px-6 py-4 bg-gray-50">
-                      ${(crypto.cap / 10000000).toFixed(2)}M
+                      ${(crypto.n / 10000000).toFixed(2)}M
                     </td>
                   )}
-                  {(crypto.volume / 10000000000).toFixed(2) >= 1 ? (
+                  {(crypto.v / 10000000000).toFixed(2) >= 1 ? (
                     <td className="px-6 py-4 bg-gray-100">
-                      ${(crypto.volume / 10000000000).toFixed(2)}B
+                      ${(crypto.v / 10000000000).toFixed(2)}B
                     </td>
                   ) : (
                     <td className="px-6 py-4 bg-gray-100">
-                      ${(crypto.volume / 10000000).toFixed(2)}M
+                      ${(crypto.v / 10000000).toFixed(2)}M
                     </td>
                   )}
                   <td className="px-6 py-4 bg-gray-50">
-                    ${crypto.allTimeHighUSD.toFixed(2)}
+                    ${crypto.h.toFixed(2)}
                   </td>
-                  {crypto.delta.hour.toFixed(2) >= 1 ? (
+                  {/* {crypto.delta.hour.toFixed(2) >= 1 ? (
                     <td className="px-6 bg-green-100 dark:bg-gray-800">
                       {crypto.delta.hour.toFixed(2)}%
                     </td>
@@ -110,7 +110,7 @@ function CryptoTable(props) {
                     <td className="px-6 bg-red-100 dark:bg-gray-800">
                       {crypto.delta.day.toFixed(2)}%
                     </td>
-                  )}
+                  )} */}
                 </tr>
               );
             })}
