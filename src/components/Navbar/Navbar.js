@@ -9,9 +9,9 @@ function clickNavbarHandler(e) {
 
 const navigation = [
   { name: 'Home', href: '/', current: true },
-  { name: 'Crypto', href: 'Crypto', current: false },
-  { name: 'ETF', href: 'ETF', current: false },
-  { name: 'Forex', href: 'Forex', current: false },
+  { name: 'Crypto', href: 'crypto', current: false },
+  { name: 'ETF', href: 'etf', current: false },
+  { name: 'Forex', href: 'forex', current: false },
 ]
 
 function classNames(...classes) {

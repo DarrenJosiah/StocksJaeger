@@ -44,9 +44,9 @@ export default function Crypto() {
       <p className="text-7xl font-bold text-blue-900 mb-3">Crypto</p>
       <p className="text-1xl font-bold">♦ ♦</p>
       <p className="text-1xl font-bold mb-8">♦</p>
-      {/* <CryptoTable/> */}
+      <CryptoTable/>
       <Particle />
-      {cryptoJson && <CryptoTable cryptoJson={cryptoJson} />}
+      {/* {cryptoJson && <CryptoTable cryptoJson={cryptoJson} />} */}
     </div>
   );
 }
