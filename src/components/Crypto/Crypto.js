@@ -23,10 +23,10 @@ export default function Crypto() {
 
   return (
     <div>
-      <p class="text-3xl font-bold mt-10">Hunting for</p>
-      <p class="text-7xl font-bold text-blue-900 mb-3">Crypto</p>
-      <p class="text-1xl font-bold">♦ ♦</p>
-      <p class="text-1xl font-bold mb-8">♦</p>
+      <p className="text-3xl font-bold mt-10">Hunting for</p>
+      <p className="text-7xl font-bold text-blue-900 mb-3">Crypto</p>
+      <p className="text-1xl font-bold">♦ ♦</p>
+      <p className="text-1xl font-bold mb-8">♦</p>
       {/* <CryptoTable/> */}
       <Particle />
       {cryptoJson && <CryptoTable cryptoJson={cryptoJson} />}
