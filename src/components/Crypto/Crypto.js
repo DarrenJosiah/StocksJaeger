@@ -20,7 +20,7 @@ export default function Crypto() {
   const headers = {
     headers: {
       "content-type": "application/json",
-      "x-api-key": process.env.REACT_APP_CRYPTO_API_KEY,
+      "x-api-key": process.env.REACT_APP_API_KEY,
     },
   };
 
@@ -33,7 +33,7 @@ export default function Crypto() {
       .catch((err) => {
         console.log(err);
       });
-  }, [cryptoJson]);
+  }, []);
 
   return (
     <div>
@@ -41,9 +41,8 @@ export default function Crypto() {
       <p className="text-7xl font-bold text-blue-900 mb-3">Crypto</p>
       <p className="text-1xl font-bold">♦ ♦</p>
       <p className="text-1xl font-bold mb-8">♦</p>
-      <CryptoTable/>
       <Particle />
-      {/* {cryptoJson && <CryptoTable cryptoJson={cryptoJson} />} */}
+      {cryptoJson && <CryptoTable cryptoJson={cryptoJson} />}
     </div>
   );
 }

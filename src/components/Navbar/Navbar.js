@@ -1,11 +1,26 @@
 import { Fragment } from 'react'
 import { Disclosure, Menu, Transition } from '@headlessui/react'
 import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
+import toast, { Toaster } from 'react-hot-toast';
+// https://github.com/timolins/react-hot-toast
+
+// Toaster
+const notify = () => toast('Whoops!\nFeature is under construction!', {
+  icon: '👷🏻‍♂️🚧',
+  style: { 
+    borderRadius: '10px',
+    background: '#333',
+    color: '#fff',
+    }
+  }
+);
+ 
 
 function clickNavbarHandler(e) {
 //   let userSelected = e.target.getAttribute('href');
 //   console.log(e.target.getAttribute('href'));
 }
+
 
 const navigation = [
   { name: 'Home', href: '/', current: true },
@@ -23,6 +38,7 @@ export default function Navbar() {
     <Disclosure as="nav" className="bg-gray-800">
       {({ open }) => (
         <>
+          <Toaster position="bottom-left" reverseOrder={false}/>
           <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
             <div className="relative flex h-16 items-center justify-between">
               <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
@@ -72,6 +88,7 @@ export default function Navbar() {
                 <button
                   type="button"
                   className="rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800"
+                  onClick={notify}
                 >
                   <span className="sr-only">View notifications</span>
                   <BellIcon className="h-6 w-6" aria-hidden="true" />
@@ -104,6 +121,7 @@ export default function Navbar() {
                           <a
                             href="#"
                             className={classNames(active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700')}
+                            onClick={notify}
                           >
                             Your Profile
                           </a>
@@ -114,6 +132,7 @@ export default function Navbar() {
                           <a
                             href="#"
                             className={classNames(active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700')}
+                            onClick={notify}
                           >
                             Settings
                           </a>
@@ -124,6 +143,7 @@ export default function Navbar() {
                           <a
                             href="#"
                             className={classNames(active ? 'bg-gray-100' : '', 'block px-4 py-2 text-sm text-gray-700')}
+                            onClick={notify}
                           >
                             Sign out
                           </a>

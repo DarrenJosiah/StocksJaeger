@@ -12,7 +12,6 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      {/* <CryptoItem /> */}
       <Routes>
         <Route path='/' exact element={<Home />} />
         <Route path='/crypto' exact element={<Crypto />} />
