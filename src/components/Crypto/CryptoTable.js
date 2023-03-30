@@ -46,7 +46,7 @@ function CryptoTable({ cryptoJson }) {
                                 <th scope="row" className="px-6 py-4 font-medium text-gray-900 whitespace-nowrap bg-gray-100 dark:text-white dark:bg-gray-800">
                                     <span>{crypto.rank}</span>
                                 </th>
-                                <Link to={`/crypto/${crypto.name}`} state={{ crypto: crypto}} element={<CryptoItem/>} key={crypto.code}>
+                                <Link to={`/${crypto.name.toLowerCase()}`} state={{ crypto: crypto}} element={<CryptoItem/>} key={crypto.code}>
                                 <td className="px-6 py-4 flex flex-row items-center bg-gray-50 dark:bg-gray-700 hover:font-bold">
                                     <img className='mr-4' src={crypto.png32}></img>
                                     <div className='flex flex-col items-start'>

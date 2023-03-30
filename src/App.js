@@ -15,9 +15,9 @@ function App() {
       <Routes>
         <Route path='/' exact element={<Home />} />
         <Route path='/crypto' exact element={<Crypto />} />
-        <Route path='/crypto' element={<CryptoItem />}>
-            <Route path=':cryptoName' element={<CryptoItem />} />
-        </Route>
+        {/* <Route path='/crypto' element={<CryptoItem />}> */}
+        <Route path=':cryptoName' element={<CryptoItem />} />
+        {/* </Route> */}
         <Route path='/etf' exact element={<ETF />} />
         <Route path='/forex' exact element={<Forex />} />
       </Routes>
